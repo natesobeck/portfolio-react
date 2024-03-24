@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Nate Sobeck",
     "role": "Full Stack Developer with a Frontend Focus",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"n-sobeck",
     "skypeid": "Your skypeid",
     "roleDescription": " I've always been fascinated by skills without shortcuts, where consistency and dedication are the only path to success. I use my natural inclination for skill development to improve people's lives through sleek, user-friendly and robust web applications.",
     "socialLinks":[
@@ -18,8 +18,8 @@ let resumeData = {
         },
         {
           "name":"email",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-email"
+          "url":"mailto:nsobeck910@gmail.com",
+          "className":"fa fa-envelope"
         }
       ],
     "aboutme":"Ever since I was a little kid, I've always loved building things. Every holiday season I'd get excited for another set of complicated legos. I loved the process of seeing your creation come to life. These days, the things that I build may be different but the passion is all the same. As I grew older, I became increasingly interested in tech until I finally decided to dive in and become a software engineer. The passion that I felt as a kid has never dwindled, but now my excitement is directed towards creating intuitive UX designs and robust web applications. When I'm not coding, you can find me working on my other passions. I am an avid lifting enthusiast, a chess hobbyist, a guitar player and singer, and a big video game fan. I live with my wonderful girlfriend and two cats.",
@@ -97,28 +97,38 @@ let resumeData = {
       {
         "name":"Waypoint",
         "description":"Trip planning app made with MERN stack with JWT Auth",
-        "imgurl":"images/triplist.png"
+        "imgurl":"images/triplist.png",
+        "url":"https://waypointtrips.netlify.app/"
       },
       {
         "name":"Coffees & Posses",
         "description":"Group community club organizer made with MERN stack with JWT Auth",
-        "imgurl":"images/coffee1.png"
+        "imgurl":"images/coffee1.png",
+        "url":"https://coffees-and-posses.netlify.app/"
       },
       {
         "name":"Habitual",
         "description":"Habit forming app made with Python and Django",  
-        "imgurl":"images/habitual1.png"
+        "imgurl":"images/habitual1.png",
+        "url":"https://habitual.fly.dev/"
       },
       {
         "name":"Muscle Memories",
         "description":"My first full CRUD app. Program and exercise tracker. MongoDB/Mongoose backend and EJS for views with Google OAuth",
-        "imgurl":"images/musclememories1.png"
+        "imgurl":"images/musclememories1.png",
+        "url":"https://muscle-memories.fly.dev/"
+      },
+      {
+        "name":"Snake: 80's Edition",
+        "description":"A browser-based recreation of the classic Snake to learn and develop understanding of game logic and control flow. Uses just vanilla HTML, CSS and JavaScript.",
+        "imgurl":"images/snake1.png",
+        "url":"https://nate-snake.netlify.app/"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+        "name":"Mewtwo"
       },
     ]
   }

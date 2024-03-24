@@ -5,20 +5,10 @@ export default class ContactUs extends Component {
     return (
       <section id="contact">
           <div className="row section-head">
-            <div className="ten columns">
               <p className="lead">
-              Feel free to contact me for any work or suggestions below
+              I am currently open to work. Feel free to reach out on LinkedIn, check out my GitHub or shoot me an email about your next project and how I can make it happen for you.
               </p>
-            </div>
-          </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
+
           </div>
         </section>
         );
